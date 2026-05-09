@@ -1,2 +1,3 @@
-# paradise-nursery
-React plant shopping application using Redux Toolkit
+# Paradise Nursery
+
+Plant shopping application using React and Redux Toolkit.
